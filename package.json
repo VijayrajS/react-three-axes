@@ -10,7 +10,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
       "type": "git",
-      "url": "git+https://github.com/jawblia/npm-test.git"
+      "url": "git+https://github.com/VijayrajS/react-three-axes.git"
   },  
   
   "dependencies": {
